@@ -1,0 +1,27 @@
+{
+  "name": "neo-gbk",
+  "main": "dist/neo-gbk.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ouonet/neo-gbk",
+  "authors": [
+    "neo <liang.gong@gmail.com>"
+  ],
+  "description": "convert GBK to UTF8",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "node",
+    "gbk",
+    "javascript",
+    "library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
