@@ -1,15 +1,15 @@
 {
-  "name": "neo-gbk",
+  "name": "neo_gbk",
   "version": "1.0.0",
   "description": "convert GBK to UTF8",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "build":"browserify index.js -o dist/neo-gbk.js"
+    "build":"browserify index.js -s neo_gbk -o dist/neo_gbk.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ouonet/neo-gbk.git"
+    "url": "git+https://github.com/ouonet/neo_gbk.git"
   },
   "keywords": [
     "node",
@@ -18,7 +18,7 @@
   "author": "liang.gong@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ouonet/neo-gbk/issues"
+    "url": "https://github.com/ouonet/neo_gbk/issues"
   },
-  "homepage": "https://github.com/ouonet/neo-gbk#readme"
+  "homepage": "https://github.com/ouonet/neo_gbk#readme"
 }

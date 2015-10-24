@@ -1,8 +1,8 @@
 {
-  "name": "neo-gbk",
-  "main": "dist/neo-gbk.js",
+  "name": "neo_gbk",
+  "main": "dist/neo_gbk.js",
   "version": "1.0.0",
-  "homepage": "https://github.com/ouonet/neo-gbk",
+  "homepage": "https://github.com/ouonet/neo_gbk",
   "authors": [
     "neo <liang.gong@gmail.com>"
   ],
